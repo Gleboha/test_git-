@@ -1,3 +1,4 @@
+
 Branch master
 changes in a master branch 
 it's a new file with some text in a new branch
