@@ -1,1 +1,2 @@
 it's a simple text for commit 
+commit - 3 
